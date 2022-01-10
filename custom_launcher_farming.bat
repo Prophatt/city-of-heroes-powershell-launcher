@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -file .\powershell_launcher_farming.ps1
